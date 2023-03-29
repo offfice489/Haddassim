@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: automationjar.testscript.Sample
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 54.516 s - in automationjar.testscript.Sample
